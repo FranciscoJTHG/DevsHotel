@@ -89,50 +89,52 @@ La API está documentada utilizando **Swagger**, lo que te permite probar fácil
 
 * Ejecución de Contenedor Docker: 
 
-![docker](image-3.png)
+![docker](/img/image-3.png)
 
 * Creación de Usuario:
 
-![crear usuario](image.png)
+![crear usuario](/img/image.png)
 
 * Login de Usuario:
 
-![Login usuario](image-1.png)
+![Login usuario](/img/image-1.png)
 
 * Token invalido:
 
-![Token invalido](image-2.png)
+![Token invalido](/img/image-2.png)
 
 * Validación de Negocio: 
 
-![validacion de negocio](image-4.png)
+![validacion de negocio](/img/image-4.png)
 
 * Registro de una Reserva:
 
-![registro reserva](image-5.png)
+![registro reserva](/img/image-5.png)
 
 * Listar reservas activas y con paginación:
 
-![reservas paginacion](image-6.png)
-
+![reservas paginacion](/img/image-6.png)
 * Actualizar reserva:
 
-![actualizar reserva](image-7.png)
+![actualizar reserva](/img/image-7.png)
 
 * Listar reserva por Id:
 
-![reserva id](image-8.png)
-
+![reserva id](/img/image-8.png)
 * Eliminar una reserva:
 
-![eliminar reserva](image-9.png)
+![eliminar reserva](/img/image-9.png)
 
 * Documentación API:
 
-![documentacion api](image-10.png)
+![documentacion api](/img/image-10.png)
+
+* Prueba automatizada del Repository Reserva:
+
+![prueba repository](/img/image-13.png)
 
 * Interfaz Swagger:
 
-![interfaz swagger](image-11.png)
+![interfaz swagger](/img/image-11.png)
 
 ### Challenge 02 correspondiente al BootCamp Back-End en Java impartido por Alura Latam.  
